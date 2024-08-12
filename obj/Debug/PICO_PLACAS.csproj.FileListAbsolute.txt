@@ -1,0 +1,10 @@
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\bin\Debug\PICO_PLACAS.exe.config
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\bin\Debug\PICO_PLACAS.exe
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\bin\Debug\PICO_PLACAS.pdb
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\obj\Debug\PICO_PLACAS.csproj.AssemblyReference.cache
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\obj\Debug\PICO_PLACAS.Form1.resources
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\obj\Debug\PICO_PLACAS.Properties.Resources.resources
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\obj\Debug\PICO_PLACAS.csproj.GenerateResource.cache
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\obj\Debug\PICO_PLACAS.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\obj\Debug\PICO_PLACAS.exe
+C:\Users\DETPC\Documents\PROYECTOSC#\ESTE SI\PICO_PLACAS\obj\Debug\PICO_PLACAS.pdb
